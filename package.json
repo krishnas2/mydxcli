@@ -1,0 +1,26 @@
+{
+  "name": "mydxcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mydxcliformodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mydxcli": "mydxclibuild.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnas2/myDXCli.git"
+  },
+  "author": "KK Juluru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnas2/myDXCli/issues"
+  },
+  "homepage": "https://github.com/krishnas2/myDXCli#readme",
+  "dependencies": {
+    "async": "^3.0.1",
+    "nopt": "^4.0.1"
+  }
+}
