@@ -1,6 +1,6 @@
 {
   "name": "mydxcli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "mydxcliformodule.js",
   "scripts": {
