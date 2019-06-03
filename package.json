@@ -1,6 +1,6 @@
 {
   "name": "mydxcli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "mydxcliformodule.js",
   "scripts": {
@@ -23,12 +23,12 @@
     "async": "^3.0.1",
     "nopt": "^4.0.1"
   },
-   "keywords": [
+  "keywords": [
     "sfdx",
-	"sfdxcli",
-	"salesforcecli",
-	"mdapiretrieve",
-	"packagexml",
-	"fullprofile"
+    "sfdxcli",
+    "salesforcecli",
+    "mdapiretrieve",
+    "packagexml",
+    "fullprofile"
   ]
 }
