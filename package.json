@@ -22,5 +22,8 @@
   "dependencies": {
     "async": "^3.0.1",
     "nopt": "^4.0.1"
-  }
+  },
+   "keywords": [
+    "sfdx","sfdxcli","salesforcecli","mdapi:retrieve","package.xml","full profile"
+  ],
 }
