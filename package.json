@@ -24,6 +24,6 @@
     "nopt": "^4.0.1"
   },
    "keywords": [
-    "sfdx","sfdxcli","salesforcecli","mdapi:retrieve","package.xml","full profile"
+    "sfdx","sfdxcli","salesforcecli","mdapi:retrieve","package.xml","fullprofile"
   ],
 }
