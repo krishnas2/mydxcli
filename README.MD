@@ -10,7 +10,7 @@ i want complete permissionset
 
 i want to get profile with CRUD
 
-If you find yourself leaning to something similar to above mentioned scenarios.Then is a light weight cli module helps you.
+If you find yourself leaning to something similar to above mentioned scenarios.Then is light weight cli module helps you.
 
 ## What is this about
 
