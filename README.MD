@@ -1,10 +1,19 @@
 # mydxcli or timesavercli
 
+## Some common scenarios
+i want complete profile xml
+i want full profile salesforce org
+i want complete permissionset
+i want to get profile with CRUD
+
+If you find yourself leaning to something similar to above mentioned scenarios.Then is a light weight cli module helps you.
+
 ## What is this about
 
 There is a common scenario among developers to fetch complete Profile or PermissionSet i.e with CRUD and there are couple of known ways to fetch them by generating package.xml and then retrieve based on that.
 
 You might be searching for package.xml generators and then use it in workbench to fetch the desired profile xml. But, this module has done all these for you.You don't have search for package.xml generators or write one on your own.
+
 
 
 ## How do i install it
