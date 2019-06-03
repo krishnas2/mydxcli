@@ -28,7 +28,7 @@
 	"sfdxcli",
 	"salesforcecli",
 	"mdapiretrieve",
-	"package.xml",
+	"packagexml",
 	"fullprofile"
   ],
 }
