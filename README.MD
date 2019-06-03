@@ -1,9 +1,13 @@
 # mydxcli or timesavercli
 
 ## Some common scenarios
+
 i want complete profile xml
+
 i want full profile salesforce org
+
 i want complete permissionset
+
 i want to get profile with CRUD
 
 If you find yourself leaning to something similar to above mentioned scenarios.Then is a light weight cli module helps you.
